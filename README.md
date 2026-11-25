@@ -18,6 +18,10 @@ Cloud: The project leverages the Google Cloud Function and scheduler to fetch re
 Web: This is a web frontend built on Flask and Google AppEngine, to let users easily submit requests. It has several parts to fill: receiver email, client information, target and bidding, and other optional fields.
 
 
+
+asdsadasdas
+
+
 # Setup
 This tool requires a Google Ads API Developer Token and an OAuth Client ID and Secret.
 
